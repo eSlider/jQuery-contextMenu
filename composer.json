@@ -9,7 +9,7 @@
   "keywords": ["contextmenu", "context-menu", "right-click-menu", "right-click", "navigation", "menu"],
   "license": "MIT",
   "require": {
-    "robloach/component-installer": "*",
+    "robloach/component-installer": "*"
   },
   "extra": {
 	"component": {
