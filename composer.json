@@ -3,7 +3,7 @@
   "type": "component",
   "homepage": "http://medialize.github.com/jQuery-contextMenu/",
   "authors": [
-     {name: "Rodney Rehm", email: "rodney.rehm@medialize.de"}
+     {"name": "Rodney Rehm", "email": "rodney.rehm@medialize.de"}
   ],
   "description": "Full featured context menu handler capable of handling thousands of elements",
   "keywords": ["contextmenu", "context-menu", "right-click-menu", "right-click", "navigation", "menu"],
